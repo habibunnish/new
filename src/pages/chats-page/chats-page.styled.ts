@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
 
-export const ChatPageContainer = styled("div")(({ theme }) => ({
+export const ChatPageContainer = styled("div")(({}) => ({
   width: "80%",
   margin: "auto",
 
